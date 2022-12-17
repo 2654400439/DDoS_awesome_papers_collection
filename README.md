@@ -10,7 +10,15 @@
 3. 从用户层面将外部ip的特征（平均发包数等）和内部ip的特征（丢包率等）都用到了，且这些特征是有效的，超过了简单的机器学习模型
 4. 用到的特征：外部用户刻画--每秒发流数、每秒发包数、流量负载生成数、并发连接数；内部用户刻画--包处理平均时延、包处理波动、每秒丢包率
 5. 提到对每个用户构建应用层指纹  
-<br/>  
+
+### 2. Developing Realistic Distributed Denial of Service (DDoS) Attack Dataset and Taxonomy  
+**发表于ICCST（非知名会议） 19**  
+<br/>
+**简介：**  
+**借鉴：**  
+
+
+
 
 # 其他
 ### 1. [ZeroWall: Detecting Zero-Day Web Attacks through Encoder-Decoder Recurrent Neural Networks](https://github.com/2654400439/DDoS_awesome_papers_collection/blob/main/papers/Tang%20%E7%AD%89%E3%80%82%20-%20ZeroWall%20Detecting%20Zero-Day%20Web%20Attacks%20through%20E.pdf)入侵检测
