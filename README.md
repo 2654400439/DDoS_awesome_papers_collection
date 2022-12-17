@@ -20,7 +20,7 @@
 1. 大部分是反射放大ddos，但是反射放大ddos与传统ddos的区别以及特定的检测方法未知
 2. 本文使用的四个传统机器学习方法可以直接用来做对比实验（文献1中直接借鉴使用）  
 
-## 3. Composite and efficient DDoS attack detection framework for B5G networks  
+## 3. [Composite and efficient DDoS attack detection framework for B5G networks](https://github.com/2654400439/DDoS_awesome_papers_collection/blob/main/papers/Amaizu%20%E7%AD%89%20-%202021%20-%20Composite%20and%20efficient%20DDoS%20attack%20detection%20fram.pdf)  
 **发表于Computer Networks 21**  
 ```diff
 - 注意避雷，本文很水
