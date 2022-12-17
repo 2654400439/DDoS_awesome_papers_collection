@@ -11,7 +11,7 @@
 4. 用到的特征：外部用户刻画--每秒发流数、每秒发包数、流量负载生成数、并发连接数；内部用户刻画--包处理平均时延、包处理波动、每秒丢包率
 5. 提到对每个用户构建应用层指纹  
 
-### 2. Developing Realistic Distributed Denial of Service (DDoS) Attack Dataset and Taxonomy  
+### 2. [Developing Realistic Distributed Denial of Service (DDoS) Attack Dataset and Taxonomy](https://github.com/2654400439/DDoS_awesome_papers_collection/blob/main/papers/Sharafaldin%20%E7%AD%89%20-%202019%20-%20Developing%20Realistic%20Distributed%20Denial%20of%20Service.pdf)  
 **发表于ICCST（非知名会议） 19**  
 <br/>
 **简介：**  
