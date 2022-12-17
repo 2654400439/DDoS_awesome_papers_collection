@@ -1,5 +1,5 @@
 # DDoS_awesome_papers_collection  
-### 1. RAD: A Statistical Mechanism Based on Behavioral Analysis for DDoS Attack Countermeasure
+### 1. [RAD: A Statistical Mechanism Based on Behavioral Analysis for DDoS Attack Countermeasure](https://github.com/2654400439/DDoS_awesome_papers_collection/blob/main/papers/Hajimaghsoodi%20%E5%92%8C%20Jalili%20-%202022%20-%20RAD%20A%20Statistical%20Mechanism%20Based%20on%20Behavioral%20A.pdf)
 **发表于IEEE TRANSACTIONS ON INFORMATION FORENSICS AND SECURITY(TIFS) 2022**  
 <br/>
 **简介：**  
