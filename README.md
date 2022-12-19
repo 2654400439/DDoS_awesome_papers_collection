@@ -14,6 +14,7 @@ A list of Papers on ddos detection. You are welcome to open an issue and pull yo
 3. 从用户层面将外部ip的特征（平均发包数等）和内部ip的特征（丢包率等）都用到了，且这些特征是有效的，超过了简单的机器学习模型
 4. 用到的特征：外部用户刻画--每秒发流数、每秒发包数、流量负载生成数、并发连接数；内部用户刻画--包处理平均时延、包处理波动、每秒丢包率
 5. 提到对每个用户构建应用层指纹  
+---
 
 ## 2. [Developing Realistic Distributed Denial of Service (DDoS) Attack Dataset and Taxonomy](https://github.com/2654400439/DDoS_awesome_papers_collection/blob/main/papers/Sharafaldin%20%E7%AD%89%20-%202019%20-%20Developing%20Realistic%20Distributed%20Denial%20of%20Service.pdf)  
 **<p align="center">发表于ICCST（非知名会议） 19</p>**
@@ -22,6 +23,7 @@ A list of Papers on ddos detection. You are welcome to open an issue and pull yo
 **借鉴：**  
 1. 大部分是反射放大ddos，但是反射放大ddos与传统ddos的区别以及特定的检测方法未知
 2. 本文使用的四个传统机器学习方法可以直接用来做对比实验（文献1中直接借鉴使用）  
+---
 
 ## 3. [Composite and efficient DDoS attack detection framework for B5G networks](https://github.com/2654400439/DDoS_awesome_papers_collection/blob/main/papers/Amaizu%20%E7%AD%89%20-%202021%20-%20Composite%20and%20efficient%20DDoS%20attack%20detection%20fram.pdf)  
 **<p align="center">发表于Computer Networks 21</p>**  
@@ -37,6 +39,7 @@ A list of Papers on ddos detection. You are welcome to open an issue and pull yo
 2. 使用**泊松相关系数**做特征选择
 3. 使用keras-tune自动选择最优超参数
 4. 引用了一篇深度学习测试阶段防止投毒攻击的文章  
+---
 
 ## 4. [Detecting and Mitigating DDoS Attacks in SDN Using Spatial-Temporal Graph Convolutional Network](https://github.com/2654400439/DDoS_awesome_papers_collection/blob/main/papers/Cao%20%E7%AD%89%20-%202022%20-%20Detecting%20and%20Mitigating%20DDoS%20Attacks%20in%20SDN%20Using.pdf)  
 **<p align="center">发表于IEEE TRANSACTIONS ON DEPENDABLE AND SECURE COMPUTING（TDSC） 2022</p>**
@@ -49,7 +52,8 @@ A list of Papers on ddos detection. You are welcome to open an issue and pull yo
 2. 带内网络遥测技术INT的应用还是比较新的
 3. 好几篇文章都是ddos缓解，分阶段处理，更完整
 4. 两种新特征来识别ddos--源ip地址信息熵变化、每个ip发包数/单向流/双向流（区分视频流和ddos）
-5. CAIDA20年新整理的白流量、ST-GCN时空图卷积、hping3ddos攻击实验工具
+5. CAIDA20年新整理的白流量、ST-GCN时空图卷积、hping3ddos攻击实验工具  
+---
 
 
 .  
