@@ -3,10 +3,11 @@ A list of Papers on ddos detection. You are welcome to open an issue and pull yo
 
 
 ## 1. [RAD: A Statistical Mechanism Based on Behavioral Analysis for DDoS Attack Countermeasure](https://github.com/2654400439/DDoS_awesome_papers_collection/blob/main/papers/Hajimaghsoodi%20%E5%92%8C%20Jalili%20-%202022%20-%20RAD%20A%20Statistical%20Mechanism%20Based%20on%20Behavioral%20A.pdf)
-**发表于IEEE TRANSACTIONS ON INFORMATION FORENSICS AND SECURITY(TIFS) 2022**  
-<br/>
+**<p align="center">发表于IEEE TRANSACTIONS ON INFORMATION FORENSICS AND SECURITY(TIFS) 2022</p>**
 **简介：**  
 本文提出了一种三阶段的基于统计模型的ddos处理机制。第一阶段外部用户被划分成正常或者可疑；第二阶段更新内部节点状态是否正常；第三阶段若受到攻击则对可疑用户进行阻止并进行连续评估。  
+**DDoS样本分类：**  
+部分cic ddos 2019，网络层ddos  
 **借鉴：**  
 1. 相关工作总结的很全面
 2. 提出了用户合法概率--从用户（ip）的层面提取特征（流级别以上）并用贝叶斯概率计算与基准值之间的可能性偏差，思想类似于**节点分布偏离度**
@@ -15,8 +16,7 @@ A list of Papers on ddos detection. You are welcome to open an issue and pull yo
 5. 提到对每个用户构建应用层指纹  
 
 ## 2. [Developing Realistic Distributed Denial of Service (DDoS) Attack Dataset and Taxonomy](https://github.com/2654400439/DDoS_awesome_papers_collection/blob/main/papers/Sharafaldin%20%E7%AD%89%20-%202019%20-%20Developing%20Realistic%20Distributed%20Denial%20of%20Service.pdf)  
-**发表于ICCST（非知名会议） 19**  
-<br/>
+**<p align="center">发表于ICCST（非知名会议） 19</p>**
 **简介：**  
 本文发布了**cic ddos 2019数据集**  
 **借鉴：**  
@@ -24,12 +24,14 @@ A list of Papers on ddos detection. You are welcome to open an issue and pull yo
 2. 本文使用的四个传统机器学习方法可以直接用来做对比实验（文献1中直接借鉴使用）  
 
 ## 3. [Composite and efficient DDoS attack detection framework for B5G networks](https://github.com/2654400439/DDoS_awesome_papers_collection/blob/main/papers/Amaizu%20%E7%AD%89%20-%202021%20-%20Composite%20and%20efficient%20DDoS%20attack%20detection%20fram.pdf)  
-**发表于Computer Networks 21**  
+**<p align="center">发表于Computer Networks 21</p>**  
 ```diff
 - 注意避雷，本文很水
 ```
 **简介：**  
 本文提出了一种复合结构神经网络（两个不同结构的全连接神经网络）检测5g环境下的ddos攻击的方法  
+**DDoS样本分类：**  
+部分cic ddos 2019样本，网络层ddos  
 **借鉴：**  
 1. 背景知识介绍5G环境中面临的安全问题；实验部分写的很细致但有点像技术报告
 2. 使用**泊松相关系数**做特征选择
@@ -37,10 +39,11 @@ A list of Papers on ddos detection. You are welcome to open an issue and pull yo
 4. 引用了一篇深度学习测试阶段防止投毒攻击的文章  
 
 ## 4. [Detecting and Mitigating DDoS Attacks in SDN Using Spatial-Temporal Graph Convolutional Network](https://github.com/2654400439/DDoS_awesome_papers_collection/blob/main/papers/Cao%20%E7%AD%89%20-%202022%20-%20Detecting%20and%20Mitigating%20DDoS%20Attacks%20in%20SDN%20Using.pdf)  
-**发表于IEEE TRANSACTIONS ON DEPENDABLE AND SECURE COMPUTING（TDSC） 2022**  
-<br/>
+**<p align="center">发表于IEEE TRANSACTIONS ON DEPENDABLE AND SECURE COMPUTING（TDSC） 2022</p>**
 **简介：**  
 本文使用ST-GCN来检测sdn场景下的ddos攻击，并能够将路由路径进行标注，进一步使用更精准的方法缓解ddos攻击。  
+**DDoS样本分类：**  
+自建、传统网络层dos，syn洪泛  
 **借鉴：**  
 1. 写作方面可以参考（如intro部分）
 2. 带内网络遥测技术INT的应用还是比较新的
