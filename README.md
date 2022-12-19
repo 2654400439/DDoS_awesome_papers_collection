@@ -1,4 +1,7 @@
 # DDoS_awesome_papers_collection  
+A list of Papers on ddos detection. You are welcome to open an issue and pull your requests if you think any paper that is important but not are inclueded in this repo.   
+
+
 ## 1. [RAD: A Statistical Mechanism Based on Behavioral Analysis for DDoS Attack Countermeasure](https://github.com/2654400439/DDoS_awesome_papers_collection/blob/main/papers/Hajimaghsoodi%20%E5%92%8C%20Jalili%20-%202022%20-%20RAD%20A%20Statistical%20Mechanism%20Based%20on%20Behavioral%20A.pdf)
 **发表于IEEE TRANSACTIONS ON INFORMATION FORENSICS AND SECURITY(TIFS) 2022**  
 <br/>
