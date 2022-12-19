@@ -37,7 +37,7 @@
 **发表于IEEE TRANSACTIONS ON DEPENDABLE AND SECURE COMPUTING（TDSC） 2022**  
 <br/>
 **简介：**  
-本文使用ST-GCN来检测sdn场景下的ddos攻击，并能够将路由路径进行标注，进一步使用更精准的方法缓解ddos攻击。
+本文使用ST-GCN来检测sdn场景下的ddos攻击，并能够将路由路径进行标注，进一步使用更精准的方法缓解ddos攻击。  
 **借鉴：**  
 1. 写作方面可以参考（如intro部分）
 2. 带内网络遥测技术INT的应用还是比较新的
