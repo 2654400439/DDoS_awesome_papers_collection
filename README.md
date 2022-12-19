@@ -55,6 +55,18 @@ A list of Papers on ddos detection. You are welcome to open an issue and pull yo
 5. CAIDA20年新整理的白流量、ST-GCN时空图卷积、hping3ddos攻击实验工具  
 ---
 
+## 5. [SkyShield: A Sketch-Based Defense System Against Application Layer DDoS Attacks]()  
+**<p align="center">发表于SkyShield: A Sketch-Based Defense System Against Application Layer DDoS Attacks（TIFS） 2018</p>**  
+**简介：**  
+本文使用sketch数据结构快速低计算开销的检测应用层ddos攻击。使用bloom过滤器过滤黑白名单，之后计算sketch的散度来判断是否遇到异常状态。  
+**DDoS样本分类：**  
+自建、应用层ddos，没具体指明  
+**借鉴：**  
+1. 使用sketch数据结构来进行当前网络快速测量
+2. 使用bloom过滤器来实现黑白名单高效查询
+3. 对两个sketch排序后使用海林格距离计算偏离度
+4. 动态阈值，使用指数加权移动平均方法
+
 
 .  
 .  
