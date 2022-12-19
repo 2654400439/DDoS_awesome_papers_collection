@@ -18,7 +18,7 @@ A list of Papers on ddos detection. You are welcome to open an issue and pull yo
 **发表于ICCST（非知名会议） 19**  
 <br/>
 **简介：**  
-本文发布了cic ddos 2019数据集  
+本文发布了**cic ddos 2019数据集**  
 **借鉴：**  
 1. 大部分是反射放大ddos，但是反射放大ddos与传统ddos的区别以及特定的检测方法未知
 2. 本文使用的四个传统机器学习方法可以直接用来做对比实验（文献1中直接借鉴使用）  
