@@ -36,7 +36,7 @@ A list of Papers on ddos detection. You are welcome to open an issue and pull yo
 部分cic ddos 2019样本，网络层ddos  
 **借鉴：**  
 1. 背景知识介绍5G环境中面临的安全问题；实验部分写的很细致但有点像技术报告
-2. 使用**泊松相关系数**做特征选择
+2. 使用**皮尔逊相关系数**做特征选择
 3. 使用keras-tune自动选择最优超参数
 4. 引用了一篇深度学习测试阶段防止投毒攻击的文章  
 ---
