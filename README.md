@@ -83,3 +83,5 @@ A list of Papers on ddos detection. You are welcome to open an issue and pull yo
 2. 架构图画的挺好看的  
 3. 进行攻击检测基于一个前提假设那就是正常流量符合http语言规范，而攻击流量一般不符合。可以在gan或扩散模型进行流量生成的时候增加这种http语言规范限制  
 4. 除了孪生网络，这是另一种做未知检测的范式（自编码器重构损失），是否有可能将两种方法结合  
+
+<!-- YOLO test -->
